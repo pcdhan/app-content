@@ -3,7 +3,7 @@ public class App{
   System.out.println("Hello World");
  }
 
- private static int add(int a, int b){
+ private static long add(int a, int b){
   return a+b;
  }
 
